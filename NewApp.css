@@ -1,0 +1,17 @@
+.spacer {
+    height: 60px;
+}
+
+.card-img {
+    width: 200px;
+    height: 200px;
+}
+
+.footer {
+    bottom: 0;
+    width: 100%;
+}
+
+.topHeading {
+    padding: 10px;
+}
